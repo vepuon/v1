@@ -1,0 +1,39 @@
+.center{
+	position:absolute;
+    height: 110px;
+	width:110px;
+	top:50%;
+    margin-top: -55px;
+	right: 50%;
+	margin-right: -55px;
+	
+}
+.green{
+	background-color:green;
+	position:absolute;
+    height: 50px;
+	width:50px;
+	bottom: 0px;
+}
+.red{
+	background-color:red;
+	position:absolute;
+    height: 50px;
+	width:50px;
+	right: 0;
+	}
+.blue{
+	background-color:blue;
+    position:absolute;
+	height:50px; 
+    width:50px;
+    
+}
+.yellow{
+	background-color:yellow;
+    position:absolute;
+    height:50px; 
+    width:50px;
+   	bottom: 0px;
+	right: 0;
+}

@@ -1,4 +1,3 @@
-
 $(".green").on("click",function(){
     $(this).hide("slow");
 });

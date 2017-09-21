@@ -6,7 +6,6 @@
     margin-top: -55px;
 	right: 50%;
 	margin-right: -55px;
-	
 }
 .green{
 	background-color:green;
@@ -21,13 +20,12 @@
     height: 50px;
 	width:50px;
 	right: 0;
-	}
+}
 .blue{
 	background-color:blue;
     position:absolute;
 	height:50px; 
     width:50px;
-    
 }
 .yellow{
 	background-color:yellow;
